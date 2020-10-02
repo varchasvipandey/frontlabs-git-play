@@ -3,3 +3,4 @@ const foo = (msg) => {
 };
 
 foo("Hello");
+
